@@ -13,3 +13,5 @@ _Machine Learning_ pada TDC dapat bekerja untuk memnemukan obat-obatan beserta p
 - Modeling: 
 - Efisiensi dan Keselamatan: ML menguji coba indikasi dari efisiensi dan efek samping obat
 - Manufaktur: ML menghitung dosis dan manufaktur dari obat
+
+Sumber : https://github.com/mims-harvard/TDC
